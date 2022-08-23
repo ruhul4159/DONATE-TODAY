@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Heebo', sans-serif;
     justify-self: start;
 }
 
@@ -17,7 +17,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(233, 182, 14);
+    color: rgba(223, 234, 14, 0.933);
 }
 
 #donate-today {
